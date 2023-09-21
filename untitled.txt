@@ -4,5 +4,5 @@ import io
 import streamlit
 import base64
 import tempfile
-streamlit==1.26.0
+
 openpyxl
